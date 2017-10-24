@@ -1,0 +1,25 @@
+{
+  "name": "bamazon-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FEEDKurumu/bamazon-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FEEDKurumu/bamazon-cli/issues"
+  },
+  "homepage": "https://github.com/FEEDKurumu/bamazon-cli#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
